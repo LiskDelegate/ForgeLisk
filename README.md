@@ -17,7 +17,7 @@ Next, go to the online Lisk web wallet at https://login.lisk.io/ , enter your pa
 Go to www.putty.org and download Putty for Windows because you are not a Linux God...yet.  Note that you can copy a line from this cheat sheet, go to the putty window, do a right click and the copied text will show up in your server control window prompt.  Then you can just hit enter to execute the line.
 
 
-Create a new Ubuntu 14.04 server at [an VPS provider of your choice, such as DigitalOcean].
+Create a new Ubuntu 14.04 server at an VPS provider of your choice, such as DigitalOcean: https://m.do.co/c/8949111a23b1
 
 
 Note the address of your server:  aaa.bbb.ccc.ddd.  Start putty and enter aaa.bbb.ccc.ddd into putty to start a putty session.  You should get a new window connected to your freshly created, brand new VPS now on the internet at aaa.bbb.ccc.ddd.
